@@ -1,0 +1,5 @@
+Requirements
+streamlit
+SpeechRecognition
+pydub
+ffmpeg-python
